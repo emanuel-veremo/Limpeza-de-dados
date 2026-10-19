@@ -1,4 +1,3 @@
-# exercicio-amostragem
 # Exercício Amostragem
 
 Projeto em R com dependências gerenciadas pelo [renv](https://rstudio.github.io/renv/).

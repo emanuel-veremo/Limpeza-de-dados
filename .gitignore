@@ -1,0 +1,6 @@
+renv/library/
+renv/staging/
+.Rhistory
+.RData
+.Rproj.user
+.ipynb_checkpoints/Limpeza de dados python-checkpoint.ipynb

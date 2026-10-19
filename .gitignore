@@ -4,3 +4,9 @@ renv/staging/
 .RData
 .Rproj.user
 .ipynb_checkpoints/Limpeza de dados python-checkpoint.ipynb
+
+.Rhistory
+.Rproj.user/
+.ipynb_checkpoints/
+.Rdata
+.Ruserdata
